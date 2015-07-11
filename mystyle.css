@@ -1,0 +1,21 @@
+body{
+	background:blue;
+}
+body>h1{
+	color:yellow;
+}
+.shapes{
+			height:300px;
+			width:300px;
+			background-color:rgba(255,110,120,0.8);
+		}
+
+#square{
+			border:5px solid black;
+			
+		}
+
+#circle{
+			border:5px dotted blue;
+			border-radius:150px
+		}
